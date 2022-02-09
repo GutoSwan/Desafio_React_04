@@ -1,6 +1,6 @@
 ![logo](https://github.com/gitqodeless/gitqodeless/blob/main/logo1.png?raw=true)
 
-# Desafio_04 - COMPONENTE
+# Desafio_04 - COMPONENT
 
 REQUERIMENTO – DEVERÁ CRIAR UM COMPONENTE DENTRO DO FRAMEWORK DO REACT.
 
